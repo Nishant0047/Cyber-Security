@@ -1,0 +1,21 @@
+import socket
+
+def sniff_packets():
+    sniffer = socket.socket(socket.AF_INET, socket.SOCK_RAW, socket.IPPROTO_IP)
+    sniffer.bind(("0.0.0.0", 0))
+    sniffer.setsockopt(socket.IPPROTO_IP, socket.IP_HDRINCL, 1)
+    try:
+        sniffer.ioctl(socket.SIO_RCVALL, socket.RCVALL_ON)
+    except AttributeError:
+        pass  
+    print("Sniffing packets...")
+    try:
+        while True:
+            packet = sniffer.recvfrom(65565)
+            print(packet[0])  
+    except KeyboardInterrupt:
+        print("\nStopping sniffing.")
+        sniffer.close()
+
+if Sniffer == "__main__":
+    sniff_packets()
