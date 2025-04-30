@@ -1,0 +1,191 @@
+1.Internet Networks
+ History of Internet
+ Internet Life Cycle
+ Submarine Cable Map
+ Types of Networks
+ Topologies
+ OSI Models
+ TCO/IP Model
+ IP Address
+ Subnet Masking
+
+2.Operating System Introduction to Ethical Hacking
+ BIOS
+ Functions BIOS
+ Architectures of OS
+ Who is Hacker
+ Types of Hackers
+ Reasons for Hacking
+ Who are the Risk of Hacking Attacks
+ Effects of Computer Hacking on an Organization
+ The Security, Functionality & Usability Triangle
+ What is Ethical Hacking
+ Why Ethical Hacking is Necessary
+ Scope & Limitations of Ethical Hacking
+
+3. Foot Printing & Reconnaissance
+ What is Foot Printing
+ Objectives of Foot Printing
+ Finding a Companys’ Details
+ Finding a Companys’ Domain Name
+ Finding a Companys’ Internal URLS
+ Finding a Companys’ Server Details
+ Finding the Details of Domain Registration
+ Finding the Range of IP Address
+ Finding the DNS Information
+ Finding the Location of Servers
+ Traceroute Analysis
+ Tracking E-Mail Communications
+
+4. Cross Site Scripting
+ Persistent XSS, where the Malicious Input
+ Originates from the Websites Database
+ Reflected XSS, where the Malicious Input
+ Originates from the Victims’ Request
+ DOM-Based XSS, where the Vulnerability
+ is in the Client-Side  Code Rather than the
+ Server-Side Code
+
+5.Scanning Hacking Web Services & Web Applications
+ Objectives of Network Scanning
+ Finding the Live Hosts in a Network
+ SNMP Enumeration
+ SMTP Enumeration
+ DNS Enumeration
+ Finding Open Ports on a Server
+ Finding the Services on a Server
+ OS Fingerprinting Server Banner Grabbing Tools
+ What is a Vulnerability Scanning
+ What is a Proxy Server
+ How Does Proxy Server Work
+ Why do Hackers use Proxy Servers
+ What is a TOR Network
+ Why Hackers Prefer to Use TOR Networks
+ What is a Web Server
+ Different Web  Server Applications in Use
+ Why are the Web Servers Hacked &
+ it’s Consequences
+ Directory Traversal Attacks
+ Website Defacement
+ Website Password Brute Forcing
+
+6. SQL Injection Session Hijacking Denial Of Service
+ What is SQL Injection
+ Effects of SQL Injection Attacks
+ Types of SQL Injection Attacks
+ SQL Injection Detection Tools
+ What is Session Hijacking
+ Dangers of Session Hijacking Attacks
+ Session Hijacking Techniques
+ How to Defend Against Session Hijacking
+ What is Dos Attacks
+ Symptoms of a Dos Attack
+ Dos Attack Techniques
+ What is Botnet
+
+7.Cloud Security, Cryptography
+ What is a Sniffer
+ Introduction to Cloud
+ Consequences
+ Mitigation Introduction
+ Symmetric Key, Asymmetric Key,
+ Public Key, Private Key
+
+8. Social Engineering
+ What is Phishing
+ How Phishing Website is Hosted
+ How Victims are Tricked to Access Phishing Websites
+ How to Differentiate a Phishing Webpage from
+ the Original Webpage
+ How to Defend Against Phishing Attacks,
+ Homograph Attack
+
+9. Mobile Hacking Sniffers
+ What is Mobile Hacking
+ Goals of Mobile Hacking
+ Counter Measures
+ What is a Sniffer. How Sniffer Works
+ IVDes or Sniffina Active Sniffina
+ Passive Sniffing
+ What is ARP
+ ARP Poison Attack
+ Threats of ARP Poison Attack
+ How MAC Spoofing Works MAC Flooding
+ How to Defend Against MAC Spoofing Attacks
+ How to Defend Against Sniffers in Network
+
+10. Evading Firewalls, IDS & Honeypots Kali Linux
+ What is a Firewall
+ What are the Functions of a Firewall
+ Types of Firewalls
+ What is an IDS
+ How does an IDS Work
+ What is a Honeypot
+ What is a Kali Linux
+ How Kali Linux is different from Other
+ Linux Distributions
+ What are the Uses of Kali Linux
+ Tools for Footprinting, Scanning & Sniffing
+ What is Metaspoilt Framework
+ Using Metaspoilt Framework to Attack
+ Windows Machines
+ Using Metaspoilt Framework to Attack
+ Android Devices
+
+11.Systems Hacking
+ What is System Hacking
+ Goals of System Hacking
+ Password Cracking
+ Password Complexity
+ Finding the Default Passwords of Network
+ Devices & Softwares
+ Password Cracking Methods Online Password Cracking
+ Man-In-The-Middle-Attack
+ Brute Force Cracking
+ Dictionary Based Cracking
+ USB Password Stealers
+ Eicomsoft Distributed Password Recover
+ Tools Active Password Changer
+ What is a Keylogger
+ How to Deploy a Keylogger to a Remote PC
+ How to Defend Against a Keylogger
+
+12.Wireless Hacking
+ Types of Wireless Networks
+ Finding a Wi-Fi Network
+ Types of Wi-Fi Authentications
+ Using a Centralized Authentication Server
+ Using Local Authentication
+ Types of WI-Fi Encryption Methods WEP WPA WPA2
+ How Does WEP Work
+ Weakness of WEP Encryption
+ How Does WA Work
+ How Does WPA2 Work
+ Hardware & Software Required to Crack
+ Wi-Fi Networks
+ How to Crack WEP Encryption
+ How to Crack WPA Encryption
+ How to Crack WPA2 Encryption
+ How to Defend Against Wi-Fi Cracking Attack
+
+13. Malware Lot Hacking
+ What is Malware
+ Types of Malware Virus
+ What is a Virus Program
+ What are the Properties of a Virus Program
+ How Does a Computer get Infected by Virus
+ Types of Virus
+ Virus Making Tools
+ How to Defend Against Virus Attacks
+ What is a Worm Program
+ How Worms are Different from Virus
+ What is a Trojan Horse
+ How does a Trojan Operate
+ How to Defend Against Trojans Spyware
+ What is a Spyware
+ Types of Spywares
+ How to Defend Against Spyware Rootkits
+ What is a Rootkit
+ Types of Rootkits
+ How does Rootkit Operate
+ How to Defend Against Rootkits
